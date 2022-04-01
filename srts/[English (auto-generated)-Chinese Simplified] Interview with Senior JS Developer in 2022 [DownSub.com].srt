@@ -1,0 +1,745 @@
+1
+00:00:00,000 --> 00:00:01,680
+well that was our tool chain from last week
+这是我们上周的工具链
+
+2
+00:00:01,680 --> 00:00:06,720
+this week is different javascript
+这周是不一样的的 javascript
+
+3
+00:00:07,279 --> 00:00:08,960
+let me just put this
+让我把它放一下
+
+4
+00:00:08,960 --> 00:00:11,040
+i have a three production already
+我已经有三个产品已经
+
+5
+00:00:11,040 --> 00:00:13,759
+just named after me, four
+以我的名字命名了, 哦，是四个
+
+6
+00:00:14,400 --> 00:00:18,560
+my job is to keep our code running
+我的工作是保持我们的代码运行
+
+7
+00:00:18,560 --> 00:00:21,520
+while other packages are changing theirs
+而其他软件包正在改变他们的代码。
+
+8
+00:00:21,520 --> 00:00:23,680
+should you learn javascript nope 
+你应该学习javascript吗 不应该
+
+9
+00:00:23,680 --> 00:00:25,920
+is there any other option ? no 
+有没有其他选择？ 没有
+
+10
+00:00:25,920 --> 00:00:27,920
+oh look another library was added today to patch
+看， 今天又增加了一个库
+
+11
+00:00:27,920 --> 00:00:30,160
+the problems of the other 150 that were also released
+以修补其他150个已发布库的问题
+
+12
+00:00:30,160 --> 00:00:31,679
+did you know javascript
+你知道javascript
+
+13
+00:00:31,679 --> 00:00:33,440
+was actually written in seven days
+实际上是在 7 天内编写的
+
+14
+00:00:33,440 --> 00:00:35,280
+such a messy language i love it
+这样一种混乱的语言，我喜欢它
+
+15
+00:00:35,280 --> 00:00:37,360
+did you know javascript was actually not written in seven days 
+你知道javascript实际上不是用七天写成的吗
+
+16
+00:00:37,360 --> 00:00:39,840
+no one ever knows what value
+没有人知道，变量是什么值，
+
+17
+00:00:39,840 --> 00:00:42,000
+variable is or what its type is,  now we use typescript 
+或者它的类型是什么, 现在我们在用typescript
+
+18
+00:00:42,000 --> 00:00:43,920
+we still don't know 
+我们仍然不知道 
+
+19
+00:00:43,920 --> 00:00:46,079
+i'd rather use rust or webassembly
+我宁愿使用rust或webassembly 
+
+20
+00:00:46,079 --> 00:00:47,600
+they say adoption is coming
+他们说 adoption 就要来了
+
+21
+00:00:47,600 --> 00:00:49,280
+they said that 10 years ago
+他们10年前就这么说了
+
+22
+00:00:49,280 --> 00:00:50,719
+they say that every year but this year is different
+他们每年都这么说 但今年不同
+
+23
+00:00:50,719 --> 00:00:52,879
+is it scalable no 
+是否具有可扩展性 没有
+
+24
+00:00:52,879 --> 00:00:55,680
+is it maintainable no is it portable
+是否可以维护 不行 是否具有可移植性 
+
+25
+00:00:55,680 --> 00:00:57,600
+not really yeah we use react we actually
+并非如此 我们用 React 我们实际上
+
+26
+00:00:57,600 --> 00:00:59,920
+use pre-act we actually use svelte
+用 Preact 我们实际上使用 svelte 
+
+27
+00:00:59,920 --> 00:01:02,559
+we actually went back to vanilla javascript
+我们实际上回到了原生 javascript
+
+28
+00:01:02,559 --> 00:01:04,400
+yeah we're using a library for this that
+是的，我们为此使用了一个库，
+
+29
+00:01:04,400 --> 00:01:06,320
+we rewrote to vanilla javascript 
+我们将其重写为 原生 javascript 
+
+30
+00:01:06,320 --> 00:01:07,840
+because it wasn't efficient we're stuck with
+因为它效率不高，我们被
+
+31
+00:01:07,840 --> 00:01:09,920
+this messy language
+这种混乱的语言困住了
+
+32
+00:01:09,920 --> 00:01:12,799
+now i love it javascript yeah 
+现在我喜欢它 javascript 是的，
+
+33
+00:01:12,799 --> 00:01:14,159
+it's the  defacto standard do you know there's a
+这是事实上的标准，你知道有一个
+
+34
+00:01:14,159 --> 00:01:16,240
+library for that i wouldn't trust the
+库可以做那个吗 我应该不相信的
+
+35
+00:01:16,240 --> 00:01:18,080
+let's say finance application with
+假设财务应用程序使用
+
+36
+00:01:18,080 --> 00:01:20,240
+javascript what our finance application
+javascript 我们的财务应用程序
+
+37
+00:01:20,240 --> 00:01:23,040
+does is totally fine to use javascript
+所做的事情完全可以使用 javascript
+
+38
+00:01:23,040 --> 00:01:25,119
+but i'd recommend using typescript not that we do 
+但我建议使用 typescript 而不是我们所做的那样
+
+39
+00:01:25,119 --> 00:01:27,520
+we had callback hell
+我们有回调地狱
+
+40
+00:01:27,520 --> 00:01:30,079
+and then we went to promises 
+然后我们转向了promises 
+
+41
+00:01:30,079 --> 00:01:32,000
+await came out went back to promises and now we
+await来了 然后我们回到了promises 现在我们
+
+42
+00:01:32,000 --> 00:01:33,600
+rewrote everything back to callbacks
+重写了所有的东西回到了回调
+
+43
+00:01:33,600 --> 00:01:36,079
+because it's just more comfortable
+因为它只是更舒服
+
+44
+00:01:36,079 --> 00:01:37,759
+at least you know it's bad
+至少你知道它不怎么样
+
+45
+00:01:37,759 --> 00:01:40,000
+oh it's probably just a quick fix 
+oh 它可能只是一个quick fix
+
+46
+00:01:40,000 --> 00:01:42,399
+will take me three to five days to find it 
+我们尝试了三到五天才找到它
+
+47
+00:01:42,399 --> 00:01:44,960
+we tried coffeescript rewrote our codebase 
+我们尝试了coffeescript 重写了我们的代码库
+
+48
+00:01:44,960 --> 00:01:46,960
+try typescript rewrote our codebase and then
+我们尝试了typescript 重写了我们的代码库
+
+49
+00:01:46,960 --> 00:01:48,640
+we went back to vanilla javascript
+然后我们回到了原生 javascript
+
+50
+00:01:48,640 --> 00:01:50,320
+because it's just more comfortable so we
+因为它只是更舒服，所以我们
+
+51
+00:01:50,320 --> 00:01:52,399
+rewrote our codebase again yeah we used
+重写了我们的代码库再次使用
+
+52
+00:01:52,399 --> 00:01:55,360
+react and then react 16.8 came out and
+react 然后 react 16.8 出来了，
+
+53
+00:01:55,360 --> 00:01:57,200
+we had to rewrite everything to hooks
+我们必须用 hooks 重写
+
+54
+00:01:57,200 --> 00:01:59,439
+react 17 came out we had to rewrite everything again 
+react 17 出来了，我们不得不再次重写所有内容
+
+55
+00:01:59,439 --> 00:02:01,360
+and then react script
+然后 react script
+
+56
+00:02:01,360 --> 00:02:03,840
+was updated to version 0.4 
+脚本更新到版本 0.4
+
+57
+00:02:03,840 --> 00:02:05,520
+and we had to fix everything
+我们必须修复一大堆东西
+
+58
+00:02:05,520 --> 00:02:08,160
+to work with local images and 
+来使用本地图像，现在 
+
+59
+00:02:08,160 --> 00:02:10,479
+now react version 18 is coming out 
+react 18 出来了
+
+60
+00:02:10,479 --> 00:02:12,400
+we'll rewrite everything again we rewrote our code base
+我们不得不再次重写所有内容，我们重写了我们的代码库
+
+61
+00:02:12,400 --> 00:02:15,200
+around nine times this month yeah
+约有九次，这个月
+
+62
+00:02:15,200 --> 00:02:17,280
+you can use redux totally fine but but
+你可以使用 redux 完全没问题，但
+
+63
+00:02:17,280 --> 00:02:18,959
+if you're on it i'd recommend you use
+如果你在使用它，我建议你使用
+
+64
+00:02:18,959 --> 00:02:20,640
+redux toolkit but actually it's better
+redux toolkit 但实际上
+
+65
+00:02:20,640 --> 00:02:23,360
+to use flux or flumax or flexible
+最好使用flux或flumax或灵活
+
+66
+00:02:23,360 --> 00:02:25,520
+actually better to use recall not that
+实际上更好地使用recall，而不是
+
+67
+00:02:25,520 --> 00:02:27,520
+we do but now react came out with the
+我们这样做，但现在 react 带有
+
+68
+00:02:27,520 --> 00:02:29,599
+hooks and context api which apparently
+hooks 和 context api，这显然
+
+69
+00:02:29,599 --> 00:02:31,599
+is better than redux apparently we'll
+比 redux 更好，显然我们会
+
+70
+00:02:31,599 --> 00:02:33,280
+rewrite everything again sometimes it
+再次重写所有内容，有时它
+
+71
+00:02:33,280 --> 00:02:35,519
+just doesn't transpire we usually
+只是不会发生我们通常
+
+72
+00:02:35,519 --> 00:02:37,440
+rewrite our code base now we actually
+重写我们的代码库现在我们实际上
+
+73
+00:02:37,440 --> 00:02:40,080
+wrote a custom transpirer to transpile
+编写了一个自定义的 transpirer 来 transpile
+
+74
+00:02:40,080 --> 00:02:42,400
+transpider it's such a messy language we
+transpider 它是如此混乱的语言 我们
+
+75
+00:02:42,400 --> 00:02:45,040
+use it for our website desktop app
+将它用于我们的网站桌面应用
+
+76
+00:02:45,040 --> 00:02:47,680
+mobile app for the fridge the tesla is
+程序用于冰箱的移动应用程序特斯拉
+
+77
+00:02:47,680 --> 00:02:49,519
+not actually native i mean it is
+实际上并不是原生的我的意思是它
+
+78
+00:02:49,519 --> 00:02:52,000
+actually native but it's sort of not
+实际上是原生的但它不是
+
+79
+00:02:52,000 --> 00:02:53,920
+really native it's sort of hybrid native
+真正的原生它是一种混合原生
+
+80
+00:02:53,920 --> 00:02:56,319
+but some of it is native i mean some
+但所以 我是原生的，我的意思是有些
+
+81
+00:02:56,319 --> 00:02:58,400
+people use it in a native way
+人以原生方式使用它，
+
+82
+00:02:58,400 --> 00:03:00,400
+but we don't really use it in a native
+但我们并没有真正以原生方式使用它，从
+
+83
+00:03:00,400 --> 00:03:01,680
+way technically a lot of people are
+技术上讲，很多人正在
+
+84
+00:03:01,680 --> 00:03:03,040
+switching back to native no one has
+切换回原生，没有人
+
+85
+00:03:03,040 --> 00:03:04,879
+switched yet angular
+切换
+
+86
+00:03:04,879 --> 00:03:06,800
+talk to me when you use angular 2 or
+过，但当你使用 Angular 时，请与我交谈 2 或
+
+87
+00:03:06,800 --> 00:03:10,000
+react npm is such a bad package manager
+react npm 是一个糟糕的包管理器，
+
+88
+00:03:10,000 --> 00:03:12,080
+no one uses that anymore npm is such a
+没有人再使用它 npm 是一个
+
+89
+00:03:12,080 --> 00:03:13,920
+good package manager how many languages
+很好的包管理器，有多少种语言
+
+90
+00:03:13,920 --> 00:03:15,920
+have one so that major version breaks
+有一个，所以主要版本破坏
+
+91
+00:03:15,920 --> 00:03:18,080
+our code but our code breaks the minor
+了我们的代码，但我们的代码破坏了次要
+
+92
+00:03:18,080 --> 00:03:19,840
+version i still don't know how to fix
+版本，我仍然不知道如何修复
+
+93
+00:03:19,840 --> 00:03:22,959
+pure dependencies until this day
+直到今天，纯依赖关系
+
+94
+00:03:22,959 --> 00:03:26,480
+yarn bpnpn turbo would make sense right
+yarn bpnpn turbo 才有意义，对
+
+95
+00:03:26,480 --> 00:03:29,040
+javascript doesn't think so jquery what
+javascript 不这么认为
+
+96
+00:03:29,040 --> 00:03:30,879
+are you five
+
+97
+00:03:30,879 --> 00:03:33,760
+we use jj query global variables
+
+98
+00:03:33,760 --> 00:03:36,319
+no one uses them it must be somewhere in
+
+99
+00:03:36,319 --> 00:03:38,319
+the window how do you debug node apps
+
+100
+00:03:38,319 --> 00:03:40,080
+you don't you just write good code but
+你只是写了好代码，但
+
+101
+00:03:40,080 --> 00:03:42,239
+not in javascript no one ever masters
+不是在 javascript 中没有人掌握
+
+102
+00:03:42,239 --> 00:03:44,239
+javascript i get a hundred thousand
+javascript 我
+
+103
+00:03:44,239 --> 00:03:46,080
+points in stack overflow i'm still a
+在堆栈溢出中获得了 10 万分 我仍然是一个
+
+104
+00:03:46,080 --> 00:03:48,799
+noob node is technically multi-threaded
+菜鸟节点在技术上是多线程的
+
+105
+00:03:48,799 --> 00:03:51,280
+javascript is technically performant our
+javascript 在技术上是高性能的 我们的
+
+106
+00:03:51,280 --> 00:03:52,480
+code
+代码
+
+107
+00:03:52,480 --> 00:03:54,319
+is never safe when they'll blow up
+在它们爆炸时永远不会安全
+
+108
+00:03:54,319 --> 00:03:55,840
+probably won't work anymore probably
+可能不再起作用 可能
+
+109
+00:03:55,840 --> 00:03:58,239
+will be using rust or webassembly or
+会使用 rust 或 webassembly 或
+
+110
+00:03:58,239 --> 00:04:00,720
+whatever j s an array is technically
+任何 js 数组在技术上
+
+111
+00:04:00,720 --> 00:04:03,280
+just an object object or object null is
+只是一个对象对象或对象 null 在
+
+112
+00:04:03,280 --> 00:04:05,680
+technically not an object but objects
+技术上不是一个对象，但对象
+
+113
+00:04:05,680 --> 00:04:09,519
+can be known so they technically can be
+可以是已知的，因此它们在技术上可以
+
+114
+00:04:09,519 --> 00:04:11,680
+non-object unless they're an object
+是非对象，除非它们是 对象是
+
+115
+00:04:11,680 --> 00:04:14,159
+right so technically null is an object
+对的，所以从技术上讲 null 是一个对象，
+
+116
+00:04:14,159 --> 00:04:15,120
+yes
+是的
+
+117
+00:04:15,120 --> 00:04:17,120
+it's a bit hacky i admit
+，我承认它有点 hacky，
+
+118
+00:04:17,120 --> 00:04:19,519
+but javascript is by design is it easy
+但是 javascript 是设计使然，它很
+
+119
+00:04:19,519 --> 00:04:21,919
+to learn
+容易学习
+
+120
+00:04:22,079 --> 00:04:24,080
+have you tried javascript probably will
+你是否尝试过 javascript 可能
+
+121
+00:04:24,080 --> 00:04:26,160
+be a bit hacky have you used javascript
+会有点 hacky 你
+
+122
+00:04:26,160 --> 00:04:28,000
+before i don't recommend i don't like
+在我不推荐之前使用过 javascript 我不喜欢
+
+123
+00:04:28,000 --> 00:04:30,479
+our tool chain documentation
+我们的工具链文档
+
+124
+00:04:30,479 --> 00:04:32,320
+and another advantage is that it's free
+和另一个优点是它是
+
+125
+00:04:32,320 --> 00:04:34,000
+so was java before it was bought by
+免费的，Java 在被 oracle 购买之前也是免费的，
+
+126
+00:04:34,000 --> 00:04:35,759
+oracle
+
+127
+00:04:35,759 --> 00:04:37,440
+so we prepare ourselves by installing
+所以我们通过
+
+128
+00:04:37,440 --> 00:04:39,919
+modules from npm then we compile it to
+从 npm 安装模块来准备自己，然后我们将其编译为
+
+129
+00:04:39,919 --> 00:04:42,240
+typescript then we use a term spyler
+typescript，然后我们使用一个名为 bubble 的术语 spyler
+
+130
+00:04:42,240 --> 00:04:45,040
+called bubble to transpile it to es5
+将其转换为 es5
+
+131
+00:04:45,040 --> 00:04:47,120
+load it with system.js file for
+加载它 使用 system.js 破产文件将
+
+132
+00:04:47,120 --> 00:04:49,600
+bankruptcy bundle it all up with webpack
+它与 webpack 捆绑在一起
+
+133
+00:04:49,600 --> 00:04:52,240
+use it in a framework like react and let
+，在诸如 react 之类的框架中使用它，并
+
+134
+00:04:52,240 --> 00:04:54,800
+the state be managed by redux or flux
+让状态由 redux 或
+
+135
+00:04:54,800 --> 00:04:57,280
+flummox or flexible or recoil or
+Flummox 或灵活或反冲或
+
+136
+00:04:57,280 --> 00:05:00,080
+whatever js and voila
+任何 js 管理，
+
+137
+00:05:00,080 --> 00:05:02,479
+all of this just to avoid using jquery
+瞧 所有这些只是为了避免使用 jquery
+
+138
+00:05:02,479 --> 00:05:04,639
+or in our case jj query but that'll be
+或在我们的例子中是 jj 查询，但这
+
+139
+00:05:04,639 --> 00:05:06,479
+probably less performant
+可能会降低性能，
+
+140
+00:05:06,479 --> 00:05:08,240
+as most of the things this isn't our
+因为大多数事情这不是我们的
+
+141
+00:05:08,240 --> 00:05:10,080
+production code it will be tomorrow
+生产代码，明天
+
+142
+00:05:10,080 --> 00:05:12,800
+though probably gonna get fired again
+可能会再次被解雇，
+
+143
+00:05:12,800 --> 00:05:14,479
+i mean there's really no alternative to
+我的意思是真的别无选择
+
+144
+00:05:14,479 --> 00:05:16,479
+javascript right now de facto no one
+现在到 javascript 实际上没有人
+
+145
+00:05:16,479 --> 00:05:18,240
+really knows what the value is until we
+真正知道价值是什么，直到我们
+
+146
+00:05:18,240 --> 00:05:19,600
+get an error
+得到一个错误
+
+147
+00:05:19,600 --> 00:05:21,600
+i love it well try writing anything
+我很喜欢它现在尝试在
+
+148
+00:05:21,600 --> 00:05:24,400
+without javascript nowadays javascript i
+没有 javascript 的情况下编写任何东西 javascript 我
+
+149
+00:05:24,400 --> 00:05:25,759
+love it
+喜欢它
+
+150
+00:05:25,759 --> 00:05:29,759
+no i don't recommend it
+不，我不推荐它
+
