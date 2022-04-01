@@ -121,17 +121,17 @@ is it maintainable no is it portable
 25
 00:00:55,680 --> 00:00:57,600
 not really yeah we use react we actually
-并非如此 我们用 React 我们实际上
+并非如此 我们用 React, 我们实际上
 
 26
 00:00:57,600 --> 00:00:59,920
-use pre-act we actually use svelte
-用 Preact 我们实际上使用 svelte 
+use Preact we actually use svelte
+用 Preact ,我们实际上使用 svelte 
 
 27
 00:00:59,920 --> 00:01:02,559
 we actually went back to vanilla javascript
-我们实际上回到了原生 javascript
+我们最终回到了原生 javascript
 
 28
 00:01:02,559 --> 00:01:04,400
@@ -141,7 +141,7 @@ yeah we're using a library for this that
 29
 00:01:04,400 --> 00:01:06,320
 we rewrote to vanilla javascript 
-我们将其重写为 原生 javascript 
+我们将其重写为原生 javascript 
 
 30
 00:01:06,320 --> 00:01:07,840
@@ -206,12 +206,12 @@ await来了 然后我们回到了promises 现在我们
 42
 00:01:32,000 --> 00:01:33,600
 rewrote everything back to callbacks
-重写了所有的东西回到了回调
+又重写了所有的东西回到了回调
 
 43
 00:01:33,600 --> 00:01:36,079
 because it's just more comfortable
-因为它只是更舒服
+只是因为它写起来更舒服
 
 44
 00:01:36,079 --> 00:01:37,759
@@ -221,12 +221,12 @@ at least you know it's bad
 45
 00:01:37,759 --> 00:01:40,000
 oh it's probably just a quick fix 
-oh 它可能只是一个quick fix
+它可能只是一个quick fix
 
 46
 00:01:40,000 --> 00:01:42,399
 will take me three to five days to find it 
-我们尝试了三到五天才找到它
+我们花了三到五天才找到它
 
 47
 00:01:42,399 --> 00:01:44,960
@@ -250,23 +250,23 @@ because it's just more comfortable so we
 
 51
 00:01:50,320 --> 00:01:52,399
-rewrote our codebase again yeah we used
-重写了我们的代码库再次使用
+rewrote our codebase again yeah 
+重写了我们的代码库
 
 52
 00:01:52,399 --> 00:01:55,360
-react and then react 16.8 came out and
-react 然后 react 16.8 出来了，
+we used react and then react 16.8 came out and
+我们先是在用 react 然后 react 16.8 出来了，
 
 53
 00:01:55,360 --> 00:01:57,200
 we had to rewrite everything to hooks
-我们必须用 hooks 重写
+我们必须得用 hooks 重写
 
 54
 00:01:57,200 --> 00:01:59,439
 react 17 came out we had to rewrite everything again 
-react 17 出来了，我们不得不再次重写所有内容
+react 17 出来了，我们不得不再次重写
 
 55
 00:01:59,439 --> 00:02:01,360
@@ -286,7 +286,7 @@ and we had to fix everything
 58
 00:02:05,520 --> 00:02:08,160
 to work with local images and 
-来使用本地图像，现在 
+来使用本地图片，现在 
 
 59
 00:02:08,160 --> 00:02:10,479
@@ -295,13 +295,13 @@ react 18 出来了
 
 60
 00:02:10,479 --> 00:02:12,400
-we'll rewrite everything again we rewrote our code base
-我们不得不再次重写所有内容，我们重写了我们的代码库
+we'll rewrite everything again 
+我们不得不再次重写
 
 61
 00:02:12,400 --> 00:02:15,200
-around nine times this month yeah
-约有九次，这个月
+we rewrote our code base around nine times this month yeah
+我们重写了9次我们的代码库，在这个月
 
 62
 00:02:15,200 --> 00:02:17,280
