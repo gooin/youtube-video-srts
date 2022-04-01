@@ -21,7 +21,7 @@ i have a three production already
 5
 00:00:11,040 --> 00:00:13,759
 just named after me, four
-以我的名字命名了, 哦，是四个
+以我的名字命名了, 是四个
 
 6
 00:00:14,400 --> 00:00:18,560
@@ -36,7 +36,7 @@ while other packages are changing theirs
 8
 00:00:21,520 --> 00:00:23,680
 should you learn javascript nope 
-你应该学习javascript吗 不应该
+你应该学习javascript吗 算了吧
 
 9
 00:00:23,680 --> 00:00:25,920
@@ -76,7 +76,7 @@ did you know javascript was actually not written in seven days
 16
 00:00:37,360 --> 00:00:39,840
 no one ever knows what value
-没有人知道，变量是什么值，
+没有人知道，变量是什么值
 
 17
 00:00:39,840 --> 00:00:42,000
@@ -86,7 +86,7 @@ variable is or what its type is,  now we use typescript
 18
 00:00:42,000 --> 00:00:43,920
 we still don't know 
-我们仍然不知道 
+我们还是不知道 
 
 19
 00:00:43,920 --> 00:00:46,079
@@ -96,7 +96,7 @@ i'd rather use rust or webassembly
 20
 00:00:46,079 --> 00:00:47,600
 they say adoption is coming
-他们说 adoption 就要来了
+他们说 adoption(没听懂) 就要来了
 
 21
 00:00:47,600 --> 00:00:49,280
@@ -136,7 +136,7 @@ we actually went back to vanilla javascript
 28
 00:01:02,559 --> 00:01:04,400
 yeah we're using a library for this that
-是的，我们为此使用了一个库，
+是的，我们为此使用了一个库
 
 29
 00:01:04,400 --> 00:01:06,320
@@ -156,11 +156,11 @@ this messy language
 32
 00:01:09,920 --> 00:01:12,799
 now i love it javascript yeah 
-现在我喜欢它 javascript 是的，
+现在我爱它 javascript
 
 33
 00:01:12,799 --> 00:01:14,159
-it's the  defacto standard do you know there's a
+it's the defacto standard do you know there's a
 这是事实上的标准，你知道有一个
 
 34
@@ -286,12 +286,12 @@ and we had to fix everything
 58
 00:02:05,520 --> 00:02:08,160
 to work with local images and 
-来使用本地图片，现在 
+来使用本地图片
 
 59
 00:02:08,160 --> 00:02:10,479
 now react version 18 is coming out 
-react 18 出来了
+现在 react 18 出来了
 
 60
 00:02:10,479 --> 00:02:12,400
@@ -301,7 +301,7 @@ we'll rewrite everything again
 61
 00:02:12,400 --> 00:02:15,200
 we rewrote our code base around nine times this month yeah
-我们重写了9次我们的代码库，在这个月
+在这个月我们重写了9次我们的代码库
 
 62
 00:02:15,200 --> 00:02:17,280
@@ -320,23 +320,23 @@ redux toolkit 但实际上
 
 65
 00:02:20,640 --> 00:02:23,360
-to use flux or flumax or flexible
-最好使用flux或flumax或灵活
+to use flux or Flummox or flexible?(没听懂) 
+最好使用flux或Flummox 或 mobx,zustand,jotai,valtio (up加的)
 
 66
 00:02:23,360 --> 00:02:25,520
-actually better to use recall not that
-实际上更好地使用recall，而不是
+actually better to use Recoil not that
+实际上更好地使用 Recoil 而不是
 
 67
 00:02:25,520 --> 00:02:27,520
 we do but now react came out with the
-我们这样做，但现在 react 带有
+我们这样做，但现在 react 自带有
 
 68
 00:02:27,520 --> 00:02:29,599
 hooks and context api which apparently
-hooks 和 context api，这显然
+hooks 和 context api 这显然
 
 69
 00:02:29,599 --> 00:02:31,599
@@ -345,48 +345,48 @@ is better than redux apparently we'll
 
 70
 00:02:31,599 --> 00:02:33,280
-rewrite everything again sometimes it
-再次重写所有内容，有时它
+rewrite everything again 
+再次重写全部
 
 71
 00:02:33,280 --> 00:02:35,519
-just doesn't transpire we usually
-只是不会发生我们通常
+sometimes it just doesn't transpire 
+有时候它不会触发
 
 72
 00:02:35,519 --> 00:02:37,440
-rewrite our code base now we actually
-重写我们的代码库现在我们实际上
+we usually rewrite our code base 
+我们通常重写我们的代码库
 
 73
 00:02:37,440 --> 00:02:40,080
-wrote a custom transpirer to transpile
-编写了一个自定义的 transpirer 来 transpile
+now we actually wrote a custom transpiler to transpile transpiler
+现在我们实际上编写了一个自定义的转译器来转译转译器
 
 74
 00:02:40,080 --> 00:02:42,400
-transpider it's such a messy language we
-transpider 它是如此混乱的语言 我们
+it's such a messy language 
+它是如此混乱的语言
 
 75
 00:02:42,400 --> 00:02:45,040
-use it for our website desktop app
-将它用于我们的网站桌面应用
+we use it for our website desktop app
+我们将它用于我们的网站、桌面应用、
 
 76
 00:02:45,040 --> 00:02:47,680
-mobile app for the fridge the tesla is
-程序用于冰箱的移动应用程序特斯拉
+mobile app for the fridge the tesla
+手机软件、冰箱、特斯拉
 
 77
 00:02:47,680 --> 00:02:49,519
-not actually native i mean it is
-实际上并不是原生的我的意思是它
+it's not actually native 
+实际上并不是原生
 
 78
 00:02:49,519 --> 00:02:52,000
-actually native but it's sort of not
-实际上是原生的但它不是
+i mean it is actually native but it's sort of not
+我的意思是他实际上是原生的但它不是
 
 79
 00:02:52,000 --> 00:02:53,920
@@ -396,57 +396,57 @@ really native it's sort of hybrid native
 80
 00:02:53,920 --> 00:02:56,319
 but some of it is native i mean some
-但所以 我是原生的，我的意思是有些
+但是有一部分是原生的，我的意思是有些
 
 81
 00:02:56,319 --> 00:02:58,400
 people use it in a native way
-人以原生方式使用它，
+人以原生方式使用它
 
 82
 00:02:58,400 --> 00:03:00,400
-but we don't really use it in a native
-但我们并没有真正以原生方式使用它，从
+but we don't really use it in a native way 
+但我们并没有真正以原生方式使用它
 
 83
 00:03:00,400 --> 00:03:01,680
-way technically a lot of people are
-技术上讲，很多人正在
+technically a lot of people are
+从技术上讲，很多人正在
 
 84
 00:03:01,680 --> 00:03:03,040
-switching back to native no one has
-切换回原生，没有人
+switching back to native
+切换回原生
 
 85
 00:03:03,040 --> 00:03:04,879
-switched yet angular
-切换
+no one has switched yet 
+但现在还没有人转换回去
 
 86
 00:03:04,879 --> 00:03:06,800
-talk to me when you use angular 2 or
-过，但当你使用 Angular 时，请与我交谈 2 或
+Angular? talk to me when you use Angular 2 or react
+Angular? 当你使用 Angular 2 或 react 的时候，再跟我说吧
 
 87
 00:03:06,800 --> 00:03:10,000
-react npm is such a bad package manager
-react npm 是一个糟糕的包管理器，
+npm is such a bad package manager
+npm 是一个糟糕的包管理器，
 
 88
 00:03:10,000 --> 00:03:12,080
 no one uses that anymore npm is such a
-没有人再使用它 npm 是一个
+没有人再用它了 npm 是一个
 
 89
 00:03:12,080 --> 00:03:13,920
-good package manager how many languages
-很好的包管理器，有多少种语言
+good package manager how many languages have one
+很好的包管理器，有多少种语言有一个，
 
 90
 00:03:13,920 --> 00:03:15,920
-have one so that major version breaks
-有一个，所以主要版本破坏
+so that major version breaks
+所以主要版本破坏
 
 91
 00:03:15,920 --> 00:03:18,080
@@ -456,113 +456,117 @@ our code but our code breaks the minor
 92
 00:03:18,080 --> 00:03:19,840
 version i still don't know how to fix
-版本，我仍然不知道如何修复
+版本，直到今天我仍然不知道如何修复
 
 93
 00:03:19,840 --> 00:03:22,959
-pure dependencies until this day
-直到今天，纯依赖关系
+peer dependencies until this day
+peer dependencies
 
 94
 00:03:22,959 --> 00:03:26,480
-yarn bpnpn turbo would make sense right
-yarn bpnpn turbo 才有意义，对
+yarn pnpm turbo would make sense right
+yarn pnpm turbo 才有意义，对
 
 95
 00:03:26,480 --> 00:03:29,040
-javascript doesn't think so jquery what
-javascript 不这么认为
+javascript doesn't think so 
+javascript 不这么认为 
 
 96
 00:03:29,040 --> 00:03:30,879
-are you five
+jquery? what are you five
+jquery? 你5岁吗
 
 97
 00:03:30,879 --> 00:03:33,760
 we use jj query global variables
+我们用 jjquery(没听懂) 全局变量
 
 98
 00:03:33,760 --> 00:03:36,319
-no one uses them it must be somewhere in
+no one uses them it must be somewhere in the window 
+没有人使用它它必然在window对象的某个地方
 
 99
 00:03:36,319 --> 00:03:38,319
-the window how do you debug node apps
+how do you debug node apps
+你是怎么调试node应用的
 
 100
 00:03:38,319 --> 00:03:40,080
-you don't you just write good code but
-你只是写了好代码，但
+you don't you just write good code 
+你不行的，你只能把代码写好
 
 101
 00:03:40,080 --> 00:03:42,239
-not in javascript no one ever masters
-不是在 javascript 中没有人掌握
+in javascript no one ever masters javascript
+在 javascript 中没有人精通javascript
 
 102
 00:03:42,239 --> 00:03:44,239
-javascript i get a hundred thousand
-javascript 我
+i get a hundred thousand
+在stack overflow 上
 
 103
 00:03:44,239 --> 00:03:46,080
-points in stack overflow i'm still a
-在堆栈溢出中获得了 10 万分 我仍然是一个
+points in stack overflow
+我获得了 10 万分 
 
 104
 00:03:46,080 --> 00:03:48,799
-noob node is technically multi-threaded
-菜鸟节点在技术上是多线程的
+i'm still a noob node is technically multi-threaded
+我仍然是一个菜鸟， node 在技术上是多线程的
 
 105
 00:03:48,799 --> 00:03:51,280
-javascript is technically performant our
-javascript 在技术上是高性能的 我们的
+javascript is technically performant 
+javascript 在技术上是高性能的 
 
 106
 00:03:51,280 --> 00:03:52,480
-code
-代码
+our code
+我们的代码
 
 107
 00:03:52,480 --> 00:03:54,319
 is never safe when they'll blow up
-在它们爆炸时永远不会安全
+在炸了的时候永远不安全
 
 108
 00:03:54,319 --> 00:03:55,840
-probably won't work anymore probably
-可能不再起作用 可能
+probably won't work anymore 
+可能不再起作用 
 
 109
 00:03:55,840 --> 00:03:58,239
-will be using rust or webassembly or
-会使用 rust 或 webassembly 或
+probably will be using rust or webassembly or whatever js
+可能会使用 rust 或 webassembly 或
 
 110
 00:03:58,239 --> 00:04:00,720
-whatever j s an array is technically
-任何 js 数组在技术上
+an array is technically
+数组在技术上是
 
 111
 00:04:00,720 --> 00:04:03,280
-just an object object or object null is
-只是一个对象对象或对象 null 在
+just an object, object is object
+只是一个对象, 对象是对象 
 
 112
 00:04:03,280 --> 00:04:05,680
-technically not an object but objects
-技术上不是一个对象，但对象
+null is technically not an object
+null 在技术上不是一个对象
 
 113
 00:04:05,680 --> 00:04:09,519
-can be known so they technically can be
-可以是已知的，因此它们在技术上可以
+ but objects can be null so they technically can be
+但对象可以是null 因此它们在技术上也可以是
 
 114
 00:04:09,519 --> 00:04:11,680
 non-object unless they're an object
-是非对象，除非它们是 对象是
+非对象，除非它们是对象
 
 115
 00:04:11,680 --> 00:04:14,159
@@ -577,101 +581,101 @@ yes
 117
 00:04:15,120 --> 00:04:17,120
 it's a bit hacky i admit
-，我承认它有点 hacky，
+我承认它有点魔法
 
 118
 00:04:17,120 --> 00:04:19,519
-but javascript is by design is it easy
-但是 javascript 是设计使然，它很
+but javascript is by design 
+但是 javascript 是设计使然
 
 119
 00:04:19,519 --> 00:04:21,919
-to learn
-容易学习
+is it easy to learn
+它很容易学习?
 
 120
 00:04:22,079 --> 00:04:24,080
-have you tried javascript probably will
-你是否尝试过 javascript 可能
+have you tried javascript 
+你有尝试过 javascript 吗
 
 121
 00:04:24,080 --> 00:04:26,160
-be a bit hacky have you used javascript
-会有点 hacky 你
+probably will be a bit hacky 
+可能会有点 hacky 
 
 122
 00:04:26,160 --> 00:04:28,000
-before i don't recommend i don't like
-在我不推荐之前使用过 javascript 我不喜欢
+have you used javascript before? i don't recommend 
+你之前用过 javascript 吗？ 我不推荐
 
 123
 00:04:28,000 --> 00:04:30,479
-our tool chain documentation
-我们的工具链文档
+i don't like our tool chain documentation
+我不喜欢我们的工具链文档
 
 124
 00:04:30,479 --> 00:04:32,320
 and another advantage is that it's free
-和另一个优点是它是
+另一个优点是它是免费的
 
 125
 00:04:32,320 --> 00:04:34,000
-so was java before it was bought by
-免费的，Java 在被 oracle 购买之前也是免费的，
+so was java before it was bought byoracle
+Java 在被 oracle 购买之前也是免费的，
 
 126
 00:04:34,000 --> 00:04:35,759
-oracle
+
 
 127
 00:04:35,759 --> 00:04:37,440
 so we prepare ourselves by installing
-所以我们通过
+所以我们从npm安装模块
 
 128
 00:04:37,440 --> 00:04:39,919
 modules from npm then we compile it to
-从 npm 安装模块来准备自己，然后我们将其编译为
+为自己做准备 ，然后我们将其编译为
 
 129
 00:04:39,919 --> 00:04:42,240
-typescript then we use a term spyler
-typescript，然后我们使用一个名为 bubble 的术语 spyler
+typescript then we use a term compiler
+typescript，然后我们使用一个名为 babel 的编译器
 
 130
 00:04:42,240 --> 00:04:45,040
-called bubble to transpile it to es5
+called babel to transpile it to es5
 将其转换为 es5
 
 131
 00:04:45,040 --> 00:04:47,120
 load it with system.js file for
-加载它 使用 system.js 破产文件将
+然后用 system.js 加载它的编译结果
 
 132
 00:04:47,120 --> 00:04:49,600
 bankruptcy bundle it all up with webpack
-它与 webpack 捆绑在一起
+用 webpack 把它全部打包
 
 133
 00:04:49,600 --> 00:04:52,240
-use it in a framework like react and let
-，在诸如 react 之类的框架中使用它，并
+use it in a framework like react 
+在诸如 react 之类的框架中使用它
 
 134
 00:04:52,240 --> 00:04:54,800
-the state be managed by redux or flux
-让状态由 redux 或
+and let the state be managed by redux or flux
+并让状态由 redux 或
 
 135
 00:04:54,800 --> 00:04:57,280
-flummox or flexible or recoil or
-Flummox 或灵活或反冲或
+Flummox or flexible or recoil or
+Flummox 或 flexible 或者 recoil 或
 
 136
 00:04:57,280 --> 00:05:00,080
-whatever js and voila
-任何 js 管理，
+whatever js and voila(没听懂)
+其他的什么 js 管理  mobx,zustand,jotai,valtio (up加的)
 
 137
 00:05:00,080 --> 00:05:02,479
@@ -680,8 +684,8 @@ all of this just to avoid using jquery
 
 138
 00:05:02,479 --> 00:05:04,639
-or in our case jj query but that'll be
-或在我们的例子中是 jj 查询，但这
+or in our case jjquery but that'll be
+或在我们的例子中是 jjquery(没听懂) 但这
 
 139
 00:05:04,639 --> 00:05:06,479
@@ -696,47 +700,46 @@ as most of the things this isn't our
 141
 00:05:08,240 --> 00:05:10,080
 production code it will be tomorrow
-生产代码，明天
+产品代码，明天
 
 142
 00:05:10,080 --> 00:05:12,800
 though probably gonna get fired again
-可能会再次被解雇，
+可能会再次被抛弃，
 
 143
 00:05:12,800 --> 00:05:14,479
 i mean there's really no alternative to
-我的意思是真的别无选择
+我的意思是对于javascript
 
 144
 00:05:14,479 --> 00:05:16,479
-javascript right now de facto no one
-现在到 javascript 实际上没有人
+javascript right now 
+到现在真的别无选择
 
 145
 00:05:16,479 --> 00:05:18,240
-really knows what the value is until we
-真正知道价值是什么，直到我们
+defacto no one really knows what the value is until we
+实际上，直到我们碰到error之前
 
 146
 00:05:18,240 --> 00:05:19,600
 get an error
-得到一个错误
+没人真正知道某个值具体是什么
 
 147
 00:05:19,600 --> 00:05:21,600
-i love it well try writing anything
-我很喜欢它现在尝试在
+i love it we're try writing anything
+我爱它 我们现在尝试在
 
 148
 00:05:21,600 --> 00:05:24,400
-without javascript nowadays javascript i
-没有 javascript 的情况下编写任何东西 javascript 我
-
+without javascript nowadays 
+没有 javascript 的情况下编写一些东西
 149
 00:05:24,400 --> 00:05:25,759
-love it
-喜欢它
+javascript i love it
+javascript 我爱它 
 
 150
 00:05:25,759 --> 00:05:29,759
