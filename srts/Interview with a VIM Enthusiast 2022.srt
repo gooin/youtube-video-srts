@@ -1,0 +1,629 @@
+1
+00:00:00,240 --> 00:00:02,960
+I actually wrote a vim versus ide comparison
+我写了一个 vim 和 ide 的比较
+
+2
+00:00:02,960 --> 00:00:04,799
+do you know how much faster vim was
+你知道vim快多少吗
+
+3
+00:00:04,799 --> 00:00:08,880
+4.3 seconds 4.3 I saved every day 
+4.3 秒 我每天都省了4.3秒
+
+4
+00:00:08,880 --> 00:00:10,719
+all those months learning were
+这几个月的学习
+
+5
+00:00:10,719 --> 00:00:12,280
+totally worth it
+都是值得的
+
+6
+00:00:12,280 --> 00:00:15,280
+gq5 ⬆️ oh that's actually the model of
+gq5 ⬆️ 那实际上是我的
+
+7
+00:00:15,280 --> 00:00:18,160
+my watch them or the eye whatever
+手表或者眼睛模型
+
+8
+00:00:18,160 --> 00:00:21,920
+you either take the vim pill or
+你要么吃下vim的安利
+
+9
+00:00:21,920 --> 00:00:23,760
+i won't talk to you
+要么我不跟你说话
+
+10
+00:00:23,760 --> 00:00:26,000
+vim is the best editor i think. no? would agree 
+我认为vim是最好的编辑器 不同意？ 你会同意的
+
+11
+00:00:26,000 --> 00:00:28,080
+efficiency, do things faster
+高效 干活更快
+
+12
+00:00:28,080 --> 00:00:30,240
+horrible, quick, everywhere, power, elite
+恐怖 快 无处不在 力量 精英
+
+13
+00:00:30,240 --> 00:00:33,040
+powerful, ssh or how i like to call it
+强大 ssh 或者我喜欢这样称呼它
+
+14
+00:00:33,040 --> 00:00:34,719
+make your life more efficient 
+让你的人生更有效率
+
+15
+00:00:34,719 --> 00:00:36,079
+10 finger typing
+10 个手指打字
+
+16
+00:00:36,079 --> 00:00:38,000
+i have hobbies yes of course
+我有爱好 当然有
+
+17
+00:00:38,000 --> 00:00:40,239
+i have a plan very fast everybody needs to learn
+我有个计划 非常快 每个人都需要学习
+
+18
+00:00:40,239 --> 00:00:42,399
+vim yeah what what is school 
+vim 啥 啥是学校
+
+19
+00:00:42,399 --> 00:00:44,399
+what is school right we should learn vim 
+啥是学校 对吧 我们应该学vim
+
+20
+00:00:44,399 --> 00:00:45,920
+instead of school
+而不是上学
+
+21
+00:00:45,920 --> 00:00:47,520
+right this is how i
+对 这就是我
+
+22
+00:00:47,520 --> 00:00:49,440
+got you know what whatever 
+如何得道的 你懂的
+
+23
+00:00:49,440 --> 00:00:51,360
+you can go through the docs text manipulation 
+你可以进行文档文本操作
+
+24
+00:00:51,360 --> 00:00:52,879
+text manipulation continued 
+继续操作文本
+
+25
+00:00:52,879 --> 00:00:54,480
+social engineering oh that was the entire
+社会工程学？  整个
+
+26
+00:00:54,480 --> 00:00:56,719
+alphabet is a command
+字母表是一个命令
+
+27
+00:00:56,719 --> 00:00:58,480
+it just changes your life your productivity 
+它只是改变你的生活 你的生产力
+
+28
+00:00:58,480 --> 00:01:00,879
+it will be painful at first and painful at last
+它在入门的时候会有点痛苦到最后还是很痛苦
+
+29
+00:01:00,879 --> 00:01:03,039
+good you need them to become a true software engineer 
+你需要它们才能成为真正的软件工程师
+
+30
+00:01:03,039 --> 00:01:05,280
+hacker no i don't use this term
+黑客 不 我不用这个词
+
+31
+00:01:05,280 --> 00:01:07,040
+i just sit all day look at the window 
+我只是整天坐着看着窗口
+
+32
+00:01:07,040 --> 00:01:09,600
+yes it's fun yeah boys well what is fun 
+是的 这很有趣 孩子们 什么是有趣
+
+33
+00:01:09,600 --> 00:01:12,080
+right no evergreen skill 
+是的 常青技能
+
+34
+00:01:12,080 --> 00:01:13,680
+you don't really need a career once in a vim
+你并不真的需要一个职业 一旦用了vim
+
+35
+00:01:13,680 --> 00:01:15,680
+vim is your career now 
+vim 就是你的职业了
+
+36
+00:01:15,680 --> 00:01:18,240
+what's the career anyway lightning speed shortcuts
+到底是什么职业 闪电般的快捷键
+
+37
+00:01:18,240 --> 00:01:21,200
+no more mouse no more mice no more traps
+不再有鼠标 不再有老鼠 不再有陷阱
+
+38
+00:01:21,200 --> 00:01:23,920
+hands stay on the keyboard light and portable 
+双手停留在键盘上 轻巧便携 
+
+39
+00:01:23,920 --> 00:01:25,680
+vim is always there 
+vim 始终在那儿
+
+40
+00:01:25,680 --> 00:01:27,280
+no seriously you can't de-install it
+说真的 你不可能在
+
+41
+00:01:27,280 --> 00:01:28,960
+without breaking your computer
+不损坏电脑的情况下卸载它
+
+42
+00:01:28,960 --> 00:01:33,439
+no need to relearn ides if you get fired often
+如果你经常被炒 就不用重学各种ide了
+
+43
+00:01:34,640 --> 00:01:36,640
+well it's actually i i don't have a gui on my computer 
+我的电脑没有gui
+
+44
+00:01:36,640 --> 00:01:38,560
+once you go vim you can never go back 
+一旦你用了vim 你就回不去了
+
+45
+00:01:38,560 --> 00:01:40,320
+you use it on remote servers anyway 
+在远程服务器上使用它
+
+46
+00:01:40,320 --> 00:01:41,920
+you might as well just
+你也可以
+
+47
+00:01:41,920 --> 00:01:44,240
+use them all the time
+一直使用它们
+
+48
+00:01:44,240 --> 00:01:48,799
+insert mode visual mode j o m k jk and suddenly you just
+插入模式 可视模式 j o m k j k 突然间你就
+
+49
+00:01:48,799 --> 00:01:50,720
+become good at it 
+熟练用它了
+
+50
+00:01:50,720 --> 00:01:51,920
+let me give you a small command overview 
+我给你一本小小的命令概述 
+
+51
+00:01:51,920 --> 00:01:54,640
+so vim you just need to learn it 
+所以 vim 你只需要学习它
+
+52
+00:01:54,640 --> 00:01:56,799
+it opens the door to wasting
+它打开了在vim上浪费
+
+53
+00:01:56,799 --> 00:01:59,840
+more time in vim sure it might take one
+更多时间的大门 肯定可能需要
+
+54
+00:01:59,840 --> 00:02:02,159
+year to learn the basics but it's worth it
+一年来学习基础知识 但是它是值得的
+
+55
+00:02:02,159 --> 00:02:04,960
+if you ask me or anyone who uses vim
+如果你问我或别人谁在用 vim
+
+56
+00:02:04,960 --> 00:02:07,520
+i'm not saying your ide is bad
+我不是说你的 ide 很烂 
+
+57
+00:02:07,520 --> 00:02:10,000
+but it's pretty bad you don't change vim 
+但是确实很烂 你改变不了vim 
+
+58
+00:02:10,000 --> 00:02:11,920
+vim changes you if you're using a computer
+但vim能改变你 如果你在用电脑
+
+59
+00:02:11,920 --> 00:02:13,360
+and you're not using vim that's pretty ridiculous 
+并且你没有在用 vim 这就很离谱了
+
+60
+00:02:13,360 --> 00:02:15,599
+vim is just a text editor
+vim 只是一个文本编辑器
+
+61
+00:02:15,599 --> 00:02:18,160
+the shortcuts are a secret 
+快捷键是个秘密
+
+62
+00:02:18,160 --> 00:02:19,520
+good gotta do a bit more digging i don't recommend
+好 再深入一点 我并不建议
+
+63
+00:02:19,520 --> 00:02:21,520
+anyone to vim i enforce it 
+任何人学习vim 我用代码
+
+64
+00:02:21,520 --> 00:02:24,400
+on them peacefully with code 
+以友善的方式强迫他们
+
+65
+00:02:24,400 --> 00:02:26,000
+between us i didn't really want to do this interview
+说真的我其实不想做这个采访
+
+66
+00:02:26,000 --> 00:02:27,840
+it changes the way you look at it
+它改变了你看待它的方式
+
+67
+00:02:27,840 --> 00:02:29,920
+and the way you look i gained 20 pounds
+它也改变了你看的方式
+
+68
+00:02:29,920 --> 00:02:31,440
+i gained 20 pounds after i learned all the commands
+我学会所有的命令后体重增加了20磅
+
+69
+00:02:31,440 --> 00:02:33,440
+and i lost 20 after i started using it
+开始使用后体重减少了20磅
+
+70
+00:02:33,440 --> 00:02:35,280
+you're wasting time if you're not learning vim
+如果你不学习 vim 你就是在浪费时间
+
+71
+00:02:35,280 --> 00:02:37,200
+you don't have to learn vim you must
+你不是一定要学 vim 而是你必须要学vim
+
+72
+00:02:37,200 --> 00:02:39,040
+well vim actually feels quite natural to
+使用Vim的人会
+
+73
+00:02:39,040 --> 00:02:41,120
+people who use vim first time i use vim
+觉得Vim很自然 我第一次使用 vim
+
+74
+00:02:41,120 --> 00:02:43,440
+i was like whoa i can automate my ci no
+我就像 哇哦 我可以自动化我的 ci 
+
+75
+00:02:43,440 --> 00:02:45,920
+i'm like whoa i can automate my ci 
+我就像 哇哦 我可以自动化我的 ci 
+
+76
+00:02:45,920 --> 00:02:47,360
+and we don't need neural link we already have them 
+我们不需要神经链接 我们已经有了
+
+77
+00:02:47,360 --> 00:02:49,280
+them is like an extension of the human brain 
+它们就像人类大脑的延伸
+
+78
+00:02:49,280 --> 00:02:51,200
+you need to learn vim if
+如果你使用电脑
+
+79
+00:02:51,200 --> 00:02:53,200
+you're using a computer
+你需要学习vim
+
+80
+00:02:53,200 --> 00:02:55,120
+it's like using a car without a car 
+这就像你在用车却没有车
+
+81
+00:02:55,120 --> 00:02:56,959
+if you're using a computer you're kind of already using vim
+如果你在用电脑 你已经在用vim了
+
+82
+00:02:56,959 --> 00:02:59,599
+and how's that? you will know then
+它是啥？ 那时你就知道了
+
+83
+00:02:59,599 --> 00:03:01,200
+and it's not just for code you can use
+不仅仅是在代码中
+
+84
+00:03:01,200 --> 00:03:03,120
+vim for many things
+你可以用vim做很多事情 
+
+85
+00:03:03,120 --> 00:03:04,640
+i use it for everything going to the grocery store
+所有事情上我都用它 去杂货店
+
+86
+00:03:04,640 --> 00:03:06,400
+watching watches going to the watch store 
+看手表 去手表店
+
+87
+00:03:06,400 --> 00:03:08,159
+or whatever stores are out there
+或者外面的各种店铺
+
+88
+00:03:08,159 --> 00:03:10,080
+haven't left the basement in a while
+有一段时间没有离开地下室了
+
+89
+00:03:10,080 --> 00:03:12,159
+vim is so beyond
+Vim是如此牛x
+
+90
+00:03:12,159 --> 00:03:14,239
+can you follow with the camera beyond
+你能让相机跟着吗 牛x
+
+91
+00:03:14,239 --> 00:03:16,080
+vim bindings represent things i want to do in my head 
+vim在我的脑海中绑定代表我想做的事情 
+
+92
+00:03:16,080 --> 00:03:21,040
+play pokemon
+玩宝可梦
+
+93
+00:03:21,040 --> 00:03:23,200
+manually automatically once you start using vim
+手动？ 自动！ 当你开始使用vim
+
+94
+00:03:23,200 --> 00:03:25,200
+it's like you acquired the ring in lord
+就像你获得了《指环王》
+
+95
+00:03:25,200 --> 00:03:27,280
+of the rings
+中的戒指
+
+96
+00:03:27,280 --> 00:03:29,120
+and you you get the analogy right
+你明白这个比喻 对吧
+
+97
+00:03:29,120 --> 00:03:31,200
+you start changing files changing text files
+开始更改文件 更改文本文件
+
+98
+00:03:31,200 --> 00:03:32,799
+changing system registry breaking your computer 
+更改系统注册表 弄挂你的电脑
+
+99
+00:03:32,799 --> 00:03:36,480
+repairing it nopes uh don't use vim
+修复它 不 呃 别用vim
+
+100
+00:03:36,480 --> 00:03:38,640
+i don't even have a mouse
+我甚至没有鼠标 你的
+
+101
+00:03:38,640 --> 00:03:40,080
+what you mean you don't have time to learn vim
+你的意思是你没有时间去学习vim
+
+102
+00:03:40,080 --> 00:03:41,360
+and what do you have time for
+你有时间去做什么
+
+103
+00:03:41,360 --> 00:03:43,040
+inefficient working inefficient work
+低效的工作
+
+104
+00:03:43,040 --> 00:03:44,799
+inefficient lifestyle right whatever
+低效的生活方式 还有别的
+
+105
+00:03:44,799 --> 00:03:46,159
+it opens the door for you doing other
+它为你在命令行上做其他事情
+
+106
+00:03:46,159 --> 00:03:47,920
+things on the command line
+打开了大门
+
+107
+00:03:47,920 --> 00:03:50,560
+extendable custom custom shell integration 
+可扩展 自定义 自定义 shell集成
+
+108
+00:03:50,560 --> 00:03:53,200
+grab grab grab a coding isn't just about
+抓取 抓取 抓取 写代码不仅仅是
+
+109
+00:03:53,200 --> 00:03:54,959
+editing code it's about editing things
+编辑代码 还包括编辑那些
+
+110
+00:03:54,959 --> 00:03:57,040
+that are not code system files readme
+不是代码的东西 系统文件 自述文件
+
+111
+00:03:57,040 --> 00:03:59,120
+environment files notes mails commit messages 
+环境文件 注释 邮件 提交 消息 
+
+112
+00:03:59,120 --> 00:04:00,799
+lots of things and vim can do
+很多事情 vim 可以做
+
+113
+00:04:00,799 --> 00:04:02,480
+a lot of different things 
+很多不同的事情
+
+114
+00:04:02,480 --> 00:04:04,720
+you can watch everything in vim if you don't know how to
+如果你不知道怎么做 你可以在vim中查看任何东西
+
+115
+00:04:04,720 --> 00:04:07,040
+vim can do all other ides can do
+vim可以做其他ide能做的所有事情
+
+116
+00:04:07,040 --> 00:04:10,159
+plus plus more very powerful 
+加上再加上其他的 非常的强大
+
+117
+00:04:10,159 --> 00:04:12,319
+images videos binary files yes
+图像 视频 二进制文件是的
+
+118
+00:04:12,319 --> 00:04:13,840
+let me give you an analogy here
+让我在这里给你一个类比
+
+119
+00:04:13,840 --> 00:04:15,840
+you know what an analogy is right 
+你知道什么是正确的类比
+
+120
+00:04:15,840 --> 00:04:17,759
+same way car enthusiasts like to work on their own cars 
+同样的 汽车爱好者喜欢修理自己的汽车 
+
+121
+00:04:17,759 --> 00:04:19,839
+programmers like editors that they
+码农喜欢他们可以编程的
+
+122
+00:04:19,839 --> 00:04:21,680
+can program
+编辑器
+
+123
+00:04:21,680 --> 00:04:23,440
+i'm not the only one that switches up gg
+我不是唯一一个一直切换 gg
+
+124
+00:04:23,440 --> 00:04:26,080
+and shift g all the time right
+和 G 的人 对吧
+
+125
+00:04:26,080 --> 00:04:29,840
+oh god i thought i've gone crazy
+天呐 我以为我疯了
+
+125
+00:04:30,080 --> 00:04:37,840
+The actual interview
+实际的采访
